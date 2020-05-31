@@ -1,2 +1,5 @@
 # auto-tests-course-on-stepik
-Homework repository for auto tests course
+Репозиторий для домашних заданий курса **Автоматизация тестирования с помощью Selenium и Python** на Stepik
+
+Здесь будут хранится скрипты на Python, которые производят различные авто тесты тренировочных веб-страниц при помощи Selenium WebDriver. 
+
